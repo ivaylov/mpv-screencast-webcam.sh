@@ -1,5 +1,5 @@
 # screencast-webcam-mpv.sh
-Webcam preview for screencast with Linux shell script.
+Borderless webcam preview for a screencast with Linux shell script.
 
 ### Requirements
 1. sudo yum install mpv 
